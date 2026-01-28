@@ -5,7 +5,7 @@
   <h3>Mechatronics Engineer | Co-founder & CTO @ Qrush AI</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Designing+Autonomous+Robots+(ROS2);Scaling+Cloud+Infrastructure;YC+AI+Startup+School+Alumni" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Designing+Autonomous+Robots;Scaling+Cloud+Infrastructure;YC+AI+Startup+School+Selectee" alt="Typing SVG" />
   </a>
 
   <p>
@@ -15,7 +15,7 @@
     <a href="mailto:keshav.m@queensu.ca">
       <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" height="25"/>
     </a>
-    <a href="#">
+    <a href="https://keshavhq.com">
       <img src="https://img.shields.io/badge/-Portfolio-100000?style=flat-square&logo=vercel&logoColor=white" height="25"/>
     </a>
   </p>
