@@ -1,5 +1,4 @@
 <div align="center">
-  
   <br />
   <h1>Keshav Mehndiratta</h1>
   <h3>Mechatronics Engineer | Co-founder & CTO @ Qrush AI</h3>
@@ -20,25 +19,29 @@
     </a>
   </p>
 
-</div>
-
 <br />
+
 ### 🛠 Projects
 
-**Qrush AI** — Agentic AI matchmaking engine on AWS Bedrock & App Runner.
-**Wildfire UAV** — Autonomous vision system (YOLOv8 + ROS2) for fixed-wing drones.
-**Auto-Delivery Bot** — Indoor navigation stack with LiDAR SLAM & Nav2.
+**Qrush AI**
 <br>
+Agentic AI matchmaking engine on AWS Bedrock & App Runner.
 
----
+**Wildfire UAV**
+<br>
+Autonomous vision system (YOLOv8 + ROS2) for fixed-wing drones.
 
-<div align="center">
-  <h3>Technical Arsenal</h3>
-  
-  <img src="https://skillicons.dev/icons?i=ros,opencv,tensorflow,python,cpp&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,react,ts,postgres&theme=dark" />
-  
+**Auto-Delivery Bot**
+<br>
+Indoor navigation stack with LiDAR SLAM & Nav2.
+
+<br />
+<br />
+
+### ⚡ Technical Arsenal
+
+<img src="https://skillicons.dev/icons?i=ros,opencv,tensorflow,python,cpp&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=aws,docker,react,ts,postgres&theme=dark" />
+
 </div>
-
-<br>
