@@ -18,30 +18,20 @@
       <img src="https://img.shields.io/badge/-Portfolio-100000?style=flat-square&logo=vercel&logoColor=white" height="25"/>
     </a>
   </p>
+</div>
 
 <br />
 
 ### 🛠 Projects
 
-**Qrush AI**
-<br>
-Agentic AI matchmaking engine on AWS Bedrock & App Runner.
+- **Qrush AI** — Agentic AI matchmaking engine on AWS Bedrock & App Runner.
+- **Wildfire UAV** — Autonomous vision system (YOLOv8 + ROS2) for fixed-wing drones.
+- **Auto-Delivery Bot** — Indoor navigation stack with LiDAR SLAM & Nav2.
 
-**Wildfire UAV**
-<br>
-Autonomous vision system (YOLOv8 + ROS2) for fixed-wing drones.
-
-**Auto-Delivery Bot**
-<br>
-Indoor navigation stack with LiDAR SLAM & Nav2.
-
-<br />
 <br />
 
 ### ⚡ Technical Arsenal
 
 <img src="https://skillicons.dev/icons?i=ros,opencv,tensorflow,python,cpp&theme=dark" />
-<br><br>
+<br>
 <img src="https://skillicons.dev/icons?i=aws,docker,react,ts,postgres&theme=dark" />
-
-</div>
