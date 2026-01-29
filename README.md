@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <h1>Keshav Mehndiratta</h1>
-  <h3>Mechatronics Engineer | Co-founder & CTO @ Qrush AI</h3>
+  <h3>Mechatronics Engineer | Founder @ Qrush AI</h3>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;YC+AI+Startup+School+Selectee;Designing+Autonomous+Robots;" alt="Typing SVG" />
